@@ -1,0 +1,108 @@
+﻿
+.nav-item a:hover {
+    background-color: azure;
+    color: #000 !important;
+}
+
+.sideNav-icon {
+    width: 32px;
+    border-radius: 100%;
+    color: steelblue;
+}
+
+.main-Content {
+    display: inline-block;
+    background-image: url(/images/bg.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+#sideNav {
+    overflow: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+#sideNav::-webkit-scrollbar {
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+
+    #sideNav {
+        width: 80px !important;
+        padding: 10px !important;
+    }
+
+    .sideNav-text {
+        font-size: 10px;
+    }
+
+    .nav-link {
+        padding: 10px 0px 10px 0px;
+        text-align: center;
+    }
+
+    #profileImage {
+        width: 60px;
+        height: 60px;
+    }
+
+    .sideNav-header {
+        font-size: 10px !important;
+    }
+}
+
+.main-container {
+    padding: 3rem;
+    width: 60vw;
+    margin-top: 2vh;
+    background-color: #fff;
+    height: 95vh;
+    border-radius: 15px;
+    box-shadow: 0 1px 30px rgba(0,0,0,.15);
+    overflow: auto;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
+
+
+
+.main-container::-webkit-scrollbar {
+    display: none;
+}
+
+.mainHeader {
+    width: 200px;
+    border-left: 4px solid rgba(42, 7, 85, 1);
+}
+
+
+.deneme {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    position: relative;
+    left: 10px;
+    top: 10px;
+    margin-top: -10px;
+    margin-left: -10px;
+    border-left: 4px solid rgba(42, 7, 85, 1);
+    border-top: 4px solid rgba(42, 7, 85, 1);
+}
+
+.mainHeader h3 {
+    margin: 0px;
+    margin-left: -120px;
+}
+
+.mainContainerHead {
+    margin-top: -70px;
+    font-size: 3em;
+}
+
+.mainList{
+    list-style-type: none !important;
+}

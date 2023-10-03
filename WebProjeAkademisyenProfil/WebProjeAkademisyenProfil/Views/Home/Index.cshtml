@@ -1,0 +1,64 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "_Layout";
+}
+@model IEnumerable<WebProjeAkademisyenProfil.Models.Category>
+
+<div class="row">
+    <div class="col col-2 col-lg-3 col-xs-4 col-sm-5 col-md-4 col-xl-2 z-1">
+        <div id="sideNav" class="d-flex flex-column flex-shrink-0 p-3 text-white bg-dark "
+             style="width: 280px; height: 100vh;">
+            <div href="/" class="align-items-center mb-3 text-white text-decoration-none text-center rounded mt-5">
+                <img id="profileImage" src="@ViewBag.Image" class="rounded" width="170" height="210" />
+
+            </div>
+            <h1 class="fs-6 text-center sideNav-header">Öğr. Gör. @ViewBag.Name @ViewBag.SurName</h1>
+            <hr>
+            <ul class="nav nav-pills flex-column mb-auto">
+                @foreach (var item in Model)
+                {
+                    <li class="nav-item">
+                        <a href="/@item.CategoryRedirect/" class="nav-link text-white">
+                            <i class="@item.CategoryIcon sideNav-icon"></i>
+                            <span class="sideNav-text">@item.CategoryName</span>
+                        </a>
+                    </li>
+
+                }
+
+            </ul>
+
+        </div>
+    </div>
+
+    <div class="col col-10 col-lg-9 col-xs-8 col-sm-7 col-md-8 col-xl-10 main-Content">
+        <div class="container main-container">
+            <span class="deneme"></span>
+
+            <div class="text-center mb-5">
+                <h2 class="mainContainerHead">Genel Bilgiler</h2>
+            </div>
+            <div class=" mt-5 mb-5"></div>
+            <p class="ms-3 mt-5 pt-5"> <strong>Kurum Bilgileri:</strong> @ViewBag.InstituteInfo</p>
+            <p class="ms-3"> <strong>Araştırma Alanları:</strong> @ViewBag.ResearchInfo</p>
+
+            <div class="mainHeader mb-4 mt-5 ms-3">
+                <h3 class="ms-2 mb-0">Biyografi</h3>
+
+            </div>
+            <p class="ms-3">@ViewBag.BioInfo</p>
+
+            <div class="mainHeader mb-4 mt-5 ms-3">
+                <h3 class="ms-2 mb-0">İletişim</h3>
+
+            </div>
+            <p class="ms-3"><strong>E-posta: </strong> @ViewBag.EmailInfo</p>
+            <p class="ms-3"><strong>Web Sayfası: </strong> @ViewBag.WebsiteInfo</p>
+            <p class="ms-3"><strong>Adres: </strong> @ViewBag.AddressInfo</p>
+
+
+        </div>
+    </div>
+</div>
+    
+

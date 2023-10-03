@@ -1,0 +1,205 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebProjeAkademisyenProfil
+build_property.RootNamespace = WebProjeAkademisyenProfil
+build_property.ProjectDir = C:\Users\Oguz\Downloads\ibrahimMuhammedTalhaGunes\ibrahimMuhammedTalhaGunes\WebProjeAkademisyenProfil\WebProjeAkademisyenProfil\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Oguz\Downloads\ibrahimMuhammedTalhaGunes\ibrahimMuhammedTalhaGunes\WebProjeAkademisyenProfil\WebProjeAkademisyenProfil
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminAcademician/AdminAcademician.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2FkZW1pY2lhblxBZG1pbkFjYWRlbWljaWFuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminAcademician/AdminAcademicianAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BY2FkZW1pY2lhblxBZG1pbkFjYWRlbWljaWFuQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminArticle/AdminArticle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BcnRpY2xlXEFkbWluQXJ0aWNsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminArticle/AdminArticleAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BcnRpY2xlXEFkbWluQXJ0aWNsZUFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminAward/AdminAward.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Bd2FyZFxBZG1pbkF3YXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminAward/AdminAwardAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Bd2FyZFxBZG1pbkF3YXJkQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminBook/AdminBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Cb29rXEFkbWluQm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminBook/AdminBookAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Cb29rXEFkbWluQm9va0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminCertificate/AdminCertificate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DZXJ0aWZpY2F0ZVxBZG1pbkNlcnRpZmljYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminCertificate/AdminCertificateAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DZXJ0aWZpY2F0ZVxBZG1pbkNlcnRpZmljYXRlQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminEducation/AdminEducation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5FZHVjYXRpb25cQWRtaW5FZHVjYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminEducation/AdminEducationAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5FZHVjYXRpb25cQWRtaW5FZHVjYXRpb25BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminExperience/AdminExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5FeHBlcmllbmNlXEFkbWluRXhwZXJpZW5jZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminExperience/AdminExperienceAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5FeHBlcmllbmNlXEFkbWluRXhwZXJpZW5jZUFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminInfo/AdminInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5JbmZvXEFkbWluSW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminInfo/AdminInfoAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5JbmZvXEFkbWluSW5mb0FkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminLesson/AdminLesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MZXNzb25cQWRtaW5MZXNzb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminLesson/AdminLessonAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5MZXNzb25cQWRtaW5MZXNzb25BZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminMembership/AdminMembership.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5NZW1iZXJzaGlwXEFkbWluTWVtYmVyc2hpcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminMembership/AdminMembershipAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5NZW1iZXJzaGlwXEFkbWluTWVtYmVyc2hpcEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminNotice/AdminNotice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Ob3RpY2VcQWRtaW5Ob3RpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminNotice/AdminNoticeAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Ob3RpY2VcQWRtaW5Ob3RpY2VBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminProject/AdminProject.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Qcm9qZWN0XEFkbWluUHJvamVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminProject/AdminProjectAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Qcm9qZWN0XEFkbWluUHJvamVjdEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminUsers/AdminUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Vc2Vyc1xBZG1pblVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminUsers/AdminUsersAdd.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Vc2Vyc1xBZG1pblVzZXJzQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/AdminUsers/AdminUsersEdit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Vc2Vyc1xBZG1pblVzZXJzRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/HomeAdmin/ErrorHandling.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEVycm9ySGFuZGxpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/HomeAdmin/HomeAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZUFkbWluXEhvbWVBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Areas/Admin/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Article/Article.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxBcnRpY2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Award/Award.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRcQXdhcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Book/Book.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Certificate/Certificate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VydGlmaWNhdGVcQ2VydGlmaWNhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Education/Education.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uXEVkdWNhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Experience/Experience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZVxFeHBlcmllbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Lesson/Lesson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uXExlc3Nvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Membership/Membership.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyc2hpcFxNZW1iZXJzaGlwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Notice/Notice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWNlXE5vdGljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Project/Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxQcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Oguz/Downloads/ibrahimMuhammedTalhaGunes/ibrahimMuhammedTalhaGunes/WebProjeAkademisyenProfil/WebProjeAkademisyenProfil/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-uiceuxq34t

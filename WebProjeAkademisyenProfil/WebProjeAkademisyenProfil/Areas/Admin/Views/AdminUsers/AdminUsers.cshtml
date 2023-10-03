@@ -1,0 +1,293 @@
+﻿@{
+
+
+}
+
+<!DOCTYPE html>
+
+
+<html lang="en"
+      class="light-style layout-menu-fixed"
+      dir="ltr"
+      data-theme="theme-default"
+      data-assets-path="~/assets/">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+
+    <title>Admin Kullanıcı Düzenle</title>
+
+    <meta name="description" content="" />
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+          rel="stylesheet" />
+    <link rel="stylesheet" href="~/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.css" />
+    <link rel="stylesheet" href="~/assets/vendor/fonts/boxicons.css" />
+
+    <link rel="stylesheet" href="~/assets/vendor/css/core.css" class="template-customizer-core-css" />
+    <link rel="stylesheet" href="~/assets/vendor/css/theme-default.css" class="template-customizer-theme-css" />
+    <link rel="stylesheet" href="~/assets/css/demo.css" />
+
+   
+
+
+    <script src="~/assets/vendor/js/helpers.js"></script>
+
+    <script src="~/assets/js/config.js"></script>
+</head>
+
+<body>
+
+    <div id="adminUsers" class="layout-wrapper layout-content-navbar layout-without-menu">
+        <div class="layout-container">
+
+            <div class="layout-page">
+
+                <nav class="layout-navbar container-xxl navbar navbar-expand-xl navbar-detached align-items-center bg-navbar-theme"
+                     id="layout-navbar">
+                    
+                    <div class="navbar-nav align-items-center">
+                        <div class="nav-item d-flex align-items-center">
+                            <a class="nav-item-a" href="~/Admin/HomeAdmin/HomeAdmin"><i class="bx bx-arrow-back fs-4 lh-0"></i></a>
+                            
+
+                        </div>
+                    </div>
+
+                    <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
+
+                        <ul class="navbar-nav flex-row align-items-center ms-auto">
+
+                            <li class="nav-item navbar-dropdown dropdown-user dropdown">
+                                <a class="nav-link dropdown-toggle hide-arrow" href="javascript:void(0);" data-bs-toggle="dropdown">
+                                    <div class="avatar avatar-online">
+                                        <img :src="kullaniciResim" class="w-px-40 h-auto rounded-circle" />
+                                    </div>
+                                </a>
+                                <ul class="dropdown-menu dropdown-menu-end">
+                                    <li>
+                                        <a class="dropdown-item" href="~/Admin/AdminUsers/AdminUsers">
+                                            <div class="d-flex">
+                                                <div class="flex-shrink-0 me-3">
+                                                    <div class="avatar avatar-online">
+                                                        <img :src="kullaniciResim" class="w-px-40 h-auto rounded-circle" />
+                                                    </div>
+                                                </div>
+                                                <div class="flex-grow-1">
+                                                    <span class="fw-semibold d-block">@ViewBag.AdminName @ViewBag.AdminSurName</span>
+                                                    <small class="text-muted">Admin</small>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+
+                                    <li>
+                                        <div class="dropdown-divider"></div>
+                                    </li>
+                                    <li>
+                                        <a v-on:click="logOut()" class="dropdown-item" href="~/Admin/Login">
+                                            <i class="bx bx-power-off me-2"></i>
+                                            <span class="align-middle">Çıkış Yap</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+
+                <div class="content-wrapper">
+
+                    <div class="container-xxl flex-grow-1 container-p-y">
+
+                        <div id="formEdit" v-if="kullaniciId" class="row">
+                            <div class="col-xl">
+                                <div class="card mb-4">
+                                    <div class="card-header d-flex justify-content-between align-items-center">
+                                        <h5 class="mb-0">Profili Düzenle</h5>
+
+                                    </div>
+                                    <div class="card-body">
+                                        <div class="d-flex align-items-start align-items-sm-center gap-4">
+                                            <img :src="kullaniciResim"
+                                                 alt="user-avatar"
+                                                 class="d-block rounded"
+                                                 height="100"
+                                                 width="100"
+                                                 id="uploadedAvatar" />
+                                            <div class="button-wrapper">
+                                                <label for="userUpload" class="btn btn-primary me-2 mb-4" tabindex="0">
+                                                    <span class="d-none d-sm-block">Yeni resim yükle</span>
+                                                    <i class="bx bx-upload d-block d-sm-none"></i>
+                                                    <input type="file"
+                                                           id="userUpload"
+                                                           class="account-file-input"
+                                                           hidden
+                                                           accept="image/png, image/jpeg"
+                                                           v-on:change="handleFileChange" />
+                                                </label>
+
+                                            </div>
+                                        </div>
+                                        <form id="formAdminEdit">
+                                            
+                                            <div class="mb-3">
+                                                <label class="form-label" for="userNameInput">Kullanıcı Adı</label>
+                                                <input type="text" class="form-control" id="userNameInput" placeholder="" v-model="kullaniciAdi" />
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label" for="userSurNameInput">Kullanıcı Soyadı</label>
+                                                <input type="text" class="form-control" id="userSurNameInput" placeholder="" v-model="kullaniciSoyAdi" />
+                                            </div>
+                                             <div class="mb-3">
+                                                <label class="form-label" for="userMailInput">Kullanıcı Mail</label>
+                                                <input type="text" class="form-control" id="userMailInput" placeholder="" v-model="kullaniciMail" />
+                                            </div>
+                                            <div class="mb-3">
+                                                <label class="form-label" for="userPassInput">Kullanıcı Sifre</label>
+                                                <input type="text" class="form-control" id="userPassInput" placeholder="" v-model="kullaniciSifre" />
+                                            </div>
+
+
+
+                                        </form>
+
+                                        <button v-on:click="onSubmit()" type="submit" class=" btn btn-primary">Kaydet </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <div class="content-backdrop fade"></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="layout-overlay layout-menu-toggle"></div>
+    </div>
+
+
+
+    <script src="~/vue/vue.global.js"></script>
+    <script src="~/axios/axios.js"></script>
+
+
+    <script>
+
+        const { createApp, ref, computed } = Vue;
+        const app = createApp({
+
+            data() {
+
+                return {
+                    kullaniciId: JSON.parse('@Html.Raw(Json.Serialize(ViewBag.AdminID))'),
+                    kullaniciAdi: null,
+                    kullaniciSoyAdi: null,
+                    kullaniciMail: null,
+                    kullaniciSifre: null,
+                    kullaniciResim: null,
+                    userAdminImagePath: null,
+                }
+            },
+            mounted() {
+                axios
+                    .get('https://localhost:7210/UserAdmin/UserAdmin/UserAdmin/' + this.kullaniciId)
+                    .then((response) => {
+                        console.log(response.data);
+
+                        this.kullaniciAdi = response.data[0].name;
+                        this.kullaniciSoyAdi = response.data[0].surName;
+                        this.kullaniciMail = response.data[0].email;
+                        this.kullaniciResim = response.data[0].image;
+
+
+                    });
+                
+            },
+            methods: {
+                handleFileChange(event) {
+                    this.userAdminImagePath = event.target.files[0];
+                    console.log(event.target.files[0]);
+                    const filePath = URL.createObjectURL(this.userAdminImagePath);
+                    console.log('Dosya Konumu:', filePath);
+                    this.kullaniciResim = filePath;
+                },
+                
+                onSubmit() {
+                    if (!this.kullaniciAdi || !this.kullaniciSoyAdi || !this.kullaniciMail || !this.kullaniciSifre || !this.kullaniciResim) {
+                        alert("Lütfen boş bilgi bırakmayınız!");
+                    }
+                    else {
+                        const formData = new FormData();
+                        formData.append('userAdminId', this.kullaniciId);
+                        formData.append('name', this.kullaniciAdi);
+                        formData.append('surName', this.kullaniciSoyAdi);
+                        formData.append('email', this.kullaniciMail);
+                        formData.append('password', this.kullaniciSifre);
+                        formData.append('image', this.kullaniciResim);
+                        formData.append('userAdminImagePath', this.userAdminImagePath);
+
+                        axios.put(`https://localhost:7210/UserAdmin/UserAdmin/UserAdmin`, formData, {
+                            headers: {
+                                'Content-Type': 'multipart/form-data'
+                            }
+                        })
+                            .then(response => {
+                                alert("Profil başarıyla düzenlendi!");
+                                location.reload();
+                                console.log(response);
+                            })
+                            .catch(error => {
+                                alert("Profil güncelleme sırasında hata oluştu!");
+                                location.reload();
+                                
+                            });
+                    }
+
+                },
+                
+                logOut() {
+                    axios.post('https://localhost:7210/Admin/Login/UserLogOut')
+                        .then(response => {
+                            console.log(response.data);
+
+                        })
+                        .catch(error => {
+
+                            console.log(error);
+
+                        });
+
+                },
+
+            }
+
+
+
+
+        });
+        app.mount("#adminUsers");
+
+
+    </script>
+
+    <script src="~/assets/vendor/libs/jquery/jquery.js"></script>
+    <script src="~/assets/vendor/libs/popper/popper.js"></script>
+    <script src="~/assets/vendor/js/bootstrap.js"></script>
+    <script src="~/assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+
+    <script src="~/assets/vendor/js/menu.js"></script>
+
+    <script src="~/assets/js/main.js"></script>
+
+
+    <script async defer src="https://buttons.github.io/buttons.js"></script>
+</body>
+</html>

@@ -1,0 +1,745 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebProjeAkademisyenProfil.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebProjeAkademisyenProfil.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\illustrations\\girl-doing-yoga-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\girl-doing-yoga-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\illustrations\\man-with-laptop-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\man-with-laptop-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\illustrations\\page-misc-error-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\page-misc-error-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\axios.js",
+      "PackagePath": "staticwebassets\\axios\\axios.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\axios.js.map",
+      "PackagePath": "staticwebassets\\axios\\axios.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\axios.min.js",
+      "PackagePath": "staticwebassets\\axios\\axios.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\axios.min.js.map",
+      "PackagePath": "staticwebassets\\axios\\axios.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\browser\\axios.cjs.map",
+      "PackagePath": "staticwebassets\\axios\\browser\\axios.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\esm\\axios.js",
+      "PackagePath": "staticwebassets\\axios\\esm\\axios.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\esm\\axios.js.map",
+      "PackagePath": "staticwebassets\\axios\\esm\\axios.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\esm\\axios.min.js",
+      "PackagePath": "staticwebassets\\axios\\esm\\axios.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\esm\\axios.min.js.map",
+      "PackagePath": "staticwebassets\\axios\\esm\\axios.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\axios\\node\\axios.cjs.map",
+      "PackagePath": "staticwebassets\\axios\\node\\axios.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\css\\mystyles.css",
+      "PackagePath": "staticwebassets\\css\\mystyles.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\images\\6fb7bb50-d54f-4c48-83fb-a8807edb515c.jpg",
+      "PackagePath": "staticwebassets\\images\\6fb7bb50-d54f-4c48-83fb-a8807edb515c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\images\\9c7767e2-c4bc-44d1-a6e7-86e789d84412.png",
+      "PackagePath": "staticwebassets\\images\\9c7767e2-c4bc-44d1-a6e7-86e789d84412.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\images\\b0a1a2c2-b5fa-46f8-bb74-7302f44ea0d3.png",
+      "PackagePath": "staticwebassets\\images\\b0a1a2c2-b5fa-46f8-bb74-7302f44ea0d3.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\images\\defaultProfileImage.png",
+      "PackagePath": "staticwebassets\\images\\defaultProfileImage.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.cjs.js",
+      "PackagePath": "staticwebassets\\vue\\vue.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.cjs.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.cjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.cjs.prod.js",
+      "PackagePath": "staticwebassets\\vue\\vue.cjs.prod.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.cjs.prod.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.cjs.prod.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.esm-browser.js",
+      "PackagePath": "staticwebassets\\vue\\vue.esm-browser.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.esm-browser.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.esm-browser.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.esm-browser.prod.js",
+      "PackagePath": "staticwebassets\\vue\\vue.esm-browser.prod.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.esm-browser.prod.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.esm-browser.prod.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.esm-bundler.js",
+      "PackagePath": "staticwebassets\\vue\\vue.esm-bundler.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.esm-bundler.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.esm-bundler.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.global.js",
+      "PackagePath": "staticwebassets\\vue\\vue.global.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.global.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.global.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.global.prod.js",
+      "PackagePath": "staticwebassets\\vue\\vue.global.prod.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.global.prod.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.global.prod.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.esm-browser.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.esm-browser.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.esm-browser.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.esm-browser.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.esm-browser.prod.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.esm-browser.prod.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.esm-browser.prod.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.esm-browser.prod.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.esm-bundler.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.esm-bundler.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.esm-bundler.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.esm-bundler.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.global.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.global.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.global.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.global.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.global.prod.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.global.prod.js"
+    },
+    {
+      "Id": "C:\\Users\\Oguz\\Downloads\\ibrahimMuhammedTalhaGunes\\ibrahimMuhammedTalhaGunes\\WebProjeAkademisyenProfil\\WebProjeAkademisyenProfil\\wwwroot\\vue\\vue.runtime.global.prod.min.js",
+      "PackagePath": "staticwebassets\\vue\\vue.runtime.global.prod.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebProjeAkademisyenProfil.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebProjeAkademisyenProfil.props",
+      "PackagePath": "build\\WebProjeAkademisyenProfil.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebProjeAkademisyenProfil.props",
+      "PackagePath": "buildMultiTargeting\\WebProjeAkademisyenProfil.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebProjeAkademisyenProfil.props",
+      "PackagePath": "buildTransitive\\WebProjeAkademisyenProfil.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
